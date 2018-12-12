@@ -8,7 +8,7 @@ Useful Jupyter Commands:
 Basic navigation: enter, shift-enter, up/k, down/j Saving the notebook: s Change Cell types: y, m, 1-6, t Cell creation: a, b Cell editing: x, c, v, d, z
 Running the Jupyter Notebook
 
-Copy/Save the entire contents of the folder to your machine. From the terminal, change directory to desired folder. Type jupyter notebook. Click anscombe-quartet to open. When the file opens, click 'Run' on the jupyter notebook toolbar.
+Copy/Save the entire contents of the folder to your machine. From the terminal, change directory to desired folder. Type jupyter notebook. Click dataset to open. When the file opens, click 'Run' on the jupyter notebook toolbar.
 
 References:
 
